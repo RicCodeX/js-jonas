@@ -1,0 +1,7 @@
+What to change when setting up vscode for coding:
+  change:
+    auto save to onfocuschange
+    multi cursor modifier to ctrlCmd
+  turn on 
+    word wrap
+    format on save
